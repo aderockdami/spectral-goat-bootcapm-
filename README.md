@@ -28,3 +28,4 @@ Designed to test and showcase:
 * Code security as a whole (full asset scan)
 * Speed and efficiency of complex scans
 * Ease of integration and developer experience
+* test
